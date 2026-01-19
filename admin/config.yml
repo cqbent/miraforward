@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: cqbent/miraforward
+  name: git-gateway
   branch: main
 
 # Local development - uncomment to use local backend
