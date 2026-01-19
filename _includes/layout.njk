@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+    <title>{{ title }} - MIRA Forward New England</title>
+    <meta name="description" content="{{ description or 'MIRA Forward New England' }}">
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body class="page" style="background: #153c49">
+    <a class="skip-to-main" href="#main-content">skip to main content</a>
+
+    <header class="banner" style="background: white">
+        <div class="container" style="height: auto">
+            <a class="brand" href="https://miracoalition.org/" style="float: right">
+                <img src="/images/mira_logo.svg" alt="MIRA Coalition">
+            </a>
+            <div style="font-family: 'Roboto Condensed', sans-serif; font-weight: 500; line-height: 1.3; font-size: 1.8rem">
+                MIRA Forward <br />New England
+            </div>
+        </div>
+
+        <nav class="main-nav" aria-label="Main navigation">
+            <div class="container">
+                <ul class="nav-list">
+                    {% for item in navigation.items %}
+                    <li class="nav-item{% if page.url == item.url %} active{% endif %}">
+                        <a href="{{ item.url }}">{{ item.text }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="wrap" role="document" style="background: white">
+        <div class="page-top">
+            <div class="section-header">
+                <div class="section-bar">
+                    <div class="container">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="main-content" class="content">
+            <main class="main container">
+                {% if title and showTitle !== false %}
+                <div class="page-header">
+                    <h1>{{ title }}</h1>
+                </div>
+                {% endif %}
+
+                <div class="row">
+                    <div class="col-12 main-content">
+                        {{ content | safe }}
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <footer class="content-info">
+        <div class="site-info">
+            <div class="container">
+                <p>&copy; 2025 MIRA Forward New England. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

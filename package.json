@@ -1,0 +1,22 @@
+{
+  "name": "mira-forward-new-england",
+  "version": "1.0.0",
+  "description": "MIRA Forward New England website built with 11ty and Decap CMS",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "debug": "DEBUG=Eleventy* eleventy"
+  },
+  "keywords": [
+    "eleventy",
+    "11ty",
+    "decap-cms"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

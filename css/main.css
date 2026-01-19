@@ -1,0 +1,179 @@
+/* Base Styles */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Skip Link */
+.skip-to-main {
+    position: absolute;
+    left: -9999px;
+    z-index: 999;
+    padding: 1em;
+    background-color: #153c49;
+    color: white;
+    opacity: 0;
+}
+
+.skip-to-main:focus {
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 1;
+}
+
+/* Header */
+.banner {
+    padding: 20px 0;
+}
+
+.banner .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.brand img {
+    max-height: 60px;
+    width: auto;
+}
+
+/* Navigation */
+.main-nav {
+    background: #153c49;
+    padding: 10px 0;
+}
+
+.nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.nav-item a {
+    display: block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+
+.nav-item a:hover,
+.nav-item.active a {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+/* Main Content */
+.wrap {
+    min-height: calc(100vh - 200px);
+}
+
+.content {
+    padding: 40px 0;
+}
+
+.page-header {
+    margin-bottom: 30px;
+}
+
+.page-header h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #153c49;
+    margin: 0;
+}
+
+.main-content h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #153c49;
+    font-size: 1.8rem;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.main-content h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #153c49;
+    font-size: 1.4rem;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.main-content p {
+    margin-bottom: 15px;
+}
+
+.main-content a {
+    color: #153c49;
+}
+
+.main-content a:hover {
+    color: #0a1e24;
+}
+
+.main-content ul {
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+
+.main-content li {
+    margin-bottom: 8px;
+}
+
+/* Footer */
+.content-info {
+    background: #153c49;
+    color: white;
+    padding: 30px 0;
+    margin-top: auto;
+}
+
+.site-info {
+    text-align: center;
+}
+
+.site-info p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .banner .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .brand {
+        float: none !important;
+    }
+
+    .nav-list {
+        justify-content: center;
+    }
+
+    .page-header h1 {
+        font-size: 2rem;
+    }
+}
