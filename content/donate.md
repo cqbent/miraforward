@@ -1,7 +1,7 @@
 ---
 title: Donate
 description: Donate to Miraforward
-permalink: donate
+permalink: /donate/
 showTitle: true
 ---
 Some text here
