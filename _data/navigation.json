@@ -5,20 +5,8 @@
       "url": "/"
     },
     {
-      "text": "About",
-      "url": "/about/"
-    },
-    {
-      "text": "Services",
-      "url": "/services/"
-    },
-    {
-      "text": "Resources",
-      "url": "/resources/"
-    },
-    {
-      "text": "Contact",
-      "url": "/contact/"
+      "text": "Donate",
+      "url": "/donate"
     }
   ]
 }

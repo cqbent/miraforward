@@ -184,3 +184,23 @@ body {
         font-size: 2rem;
     }
 }
+
+/* button styling */
+
+.btn {
+    display: inline-block;
+    min-width: 150px;
+    font-weight: 600;
+    color: #fff !important;
+    text-decoration: none !important;
+    background-color: #c9252c;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
