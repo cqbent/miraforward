@@ -49,6 +49,7 @@ body {
 }
 
 
+
 .brand img {
     height: 80px;
     width: auto;
@@ -166,12 +167,10 @@ body {
 }
 
 /* Responsive */
-@media (max-width: 768px) {
-    .banner .container {
-        flex-direction: column;
-        text-align: center;
+@media (max-width: 576px) {
+    .site-title {
+        display: none;
     }
-
     .brand {
         float: none !important;
     }
