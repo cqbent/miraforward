@@ -11,10 +11,11 @@ Carrie Nation Restaurant and Cocktail Club (11 Beacon St, Boston, MA 02108)
 
 *Complimentary refreshments and a selection of non-alcoholic drinks will be provided.*
 
+<a href="/march-5-launch-event" class="btn btn-primary">Register To Attend</a>
+
 **[Register To Attend](https://host.nxt.blackbaud.com/registration-form/?formId=297c1167-d6ee-414b-8861-3da1c986de06&envId=p-DNavDMd69Ea8CcZm3xVwcg&zone=usa)**
 
 *Please RSVP by March 2nd*
-
 
 ***Registration and Networking*** 
 
