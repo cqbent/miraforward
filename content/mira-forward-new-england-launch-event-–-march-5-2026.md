@@ -1,5 +1,5 @@
 ---
-title: "MIRA Forward New England Launch Event – March 5, 2026 "
+title: MIRA Forward New England Launch Event
 permalink: /
 showTitle: true
 ---
