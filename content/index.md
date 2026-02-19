@@ -14,9 +14,7 @@ showTitle: true
 
 ## <a href="/donate" class="btn btn-primary">Donate</a>
 
-<a href="/launch" class="btn btn-primary">Join Us For the Launch Event March 5</a>
-
-
+**[Join Us For The Launch Event March 5](https://miraforward.org/march-5-launch-event)**
 
 ## Vision
 
