@@ -1,6 +1,6 @@
 ---
 title: "MIRA Forward New England Launch Event – March 5, 2026 "
-permalink: miraforward.org/launch/
+permalink: /
 showTitle: true
 ---
 We’re excited to invite you to be among the first to engage with **MIRA Forward New England,** a new **501(c)(4)** initiative dedicated to convening, mobilizing, and advocating alongside immigrants, refugees, and their allies to create systemic change.
