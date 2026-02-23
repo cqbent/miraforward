@@ -3,6 +3,9 @@ title: MIRA Forward New England Launch Event
 permalink: /march-5-launch-event/
 showTitle: true
 ---
+<img src="/images/2500x1280-c4-launch-event-header.png" alt="C4 Launch Event" style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;">
+
+
 We’re excited to invite you to be among the first to engage with **MIRA Forward New England,** a new **501(c)(4)** initiative dedicated to convening, mobilizing, and advocating alongside immigrants, refugees, and their allies to create systemic change.
 
 Thursday, March 5, 2026 I 11:30 AM – 1:30 PM 
