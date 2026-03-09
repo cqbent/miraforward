@@ -14,8 +14,6 @@ showTitle: true
 
 ## <a href="/donate" class="btn btn-primary">Donate</a>
 
-### [RSVP For The Launch Event March 5](https://miraforward.org/march-5-launch-event/)
-
 ## Vision
 
 MIRA Forward New England envisions a nation where immigrants and refugees harness their power to thrive, and fully contribute to the social, economic, and civic fabric of our communities.  We are building a nation where all people can use their own voices and see themselves represented at all levels of government.
