@@ -23,5 +23,3 @@ Attn: Development Department
 **Please note that contributions to MIRA Forward New England, a 501(c)(4) social welfare organization, are not tax-deductible for federal income tax purposes.**
 
 **EIN:** 39-3727785
-
-##
