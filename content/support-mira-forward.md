@@ -1,6 +1,6 @@
 ---
 title: Support MIRA Forward
-permalink: /donate
+permalink: /donate/
 showTitle: true
 ---
 MIRA Forward builds the political power needed to advance pro-immigrant policies and defend immigrant communities. Through advocacy, organizing, and direct engagement with policymakers, MIRA Forward works to ensure immigrant voices are heard and that our communities have a seat at the table when decisions are made.
