@@ -14,16 +14,37 @@ showTitle: true
 
 ## Vision
 
-MIRA Forward New England envisions a nation where immigrants and refugees harness their power to thrive, and fully contribute to the social, economic, and civic fabric of our communities.  We are building a nation where all people can use their own voices and see themselves represented at all levels of government.
+**A nation where immigrants and refugees thrive and lead.**
+MIRA Forward New England envisions a country where immigrants and refugees harness their collective power, use their own voices, and see themselves represented at all levels of government.
+
+**Full participation in civic life.**
+We are working toward a democracy where immigrants and refugees are not only protected, but are active shapers of our shared future, politically, economically, and socially.
 
 ## Mission
 
-MIRA Forward New England convenes, mobilizes, and advocates alongside immigrants, refugees, and their allies to create systemic change that upholds the rights, dignity, and opportunities for full participation in society.  We mobilize, support, and campaign for candidates that represent the values and interests of our immigrant communities.  We champion policies, policy makers and initiatives that prioritize immigrant and refugee voices, leveraging our collective strength to build a more just and inclusive society for all.
+**Mobilize, advocate, and campaign alongside immigrant communities.**
+MIRA Forward New England convenes and mobilizes immigrants, refugees, and allies to create systemic change that upholds dignity, rights, and full participation in society.
+
+**Support values-aligned candidates and policies.**
+We campaign for candidates, initiatives, and policy makers who reflect and champion the values and interests of immigrant and refugee communities.
+
+**Leverage collective power for systemic change.**
+By organizing across communities and issues, we build the political strength needed to advance a more just and inclusive society for everyone.
 
 ## Values
 
-Immigrant and Refugee Centered: MIRA Forward New England is committed to uplifting the voices and experiences of immigrants and refugees, ensuring that they are central to decision-making processes and strategies that affect their lives. We prioritize inclusion of immigrant and refugee communities through education, leadership development, and advocacy efforts.
+**Immigrant & Refugee Centered**
 
-Anti-Oppression: MIRA Forward New England actively works to dismantle systems of oppression and discrimination, centering our efforts on anti-racism, inclusivity, and justice for all.
+**Immigrant and refugee voices are central, not symbolic.** We invest in education, leadership development, and civic participation so communities lead strategies that affect their lives.
 
-Fairness and Justice: Commitment to bold advocacy for fair and equal treatment of immigrants and immigrant communities, including equitable due process and protection from exploitation.
+**Anti-Oppression**
+
+**We actively work to dismantle systems of racism, exclusion, and discrimination.** Our political work is grounded in anti-racism, inclusion, and solidarity acrosscommunities.
+
+**Fairness & Justice**
+
+**We fight for bold, equitable policies that protect dignity, due process, and freedom from exploitation.** We reject half-measures and commit to structural change, not performative inclusion.
+
+**Big Picture**
+
+**MIRA Forward New England exists because immigrant justice requires political power.** This is about building a future where immigrants are decision-makers, candidates, voters, and leaders. We are not just defending communities, we are advancing a vision of democracy that works for all of us.
