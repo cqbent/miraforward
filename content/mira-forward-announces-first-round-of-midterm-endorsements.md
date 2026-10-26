@@ -1,6 +1,6 @@
 ---
 title: "MIRA Forward Announces First Round of Midterm Endorsements "
-permalink: 2026-midterm-endorsements-first-round
+permalink: 2026-midterm-endorsements-first-round/
 showTitle: true
 ---
 **PRESS RELEASE**
