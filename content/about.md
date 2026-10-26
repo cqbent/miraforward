@@ -3,6 +3,10 @@ title: About Us
 description: Learn about MIRA Forward New England and our mission
 permalink: /about/
 ---
+## MIRA Forward announces first round of endorsements – 2026 midterm election 
+
+[Endorsements here](https://miraforward.netlify.app/2026-midterm-endorsements-first-round/)
+
 ## About MIRA Forward New England
 
 **MIRA Forward New England** is our new **501(c)(4)** vehicle to directly mobilize immigrant political power, through advocacy, civic engagement, and candidate support, so immigrant and refugee communities can shape policy and representation, not just react to it.
