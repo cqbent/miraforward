@@ -23,4 +23,4 @@ MIRA Forward New England is proud to issue their second round of endorsements fo
 
 "Immigrants are essential to our communities, economy, and country. But with Trump and ICE terrorizing our neighbors, separating families, and traumatizing children, we need partners from the government to the community level who will stand in the gap and defend the dignity and humanity of our immigrant neighbors," said **Congresswoman Ayanna Pressley**. "I'm so proud to earn the endorsement of MIRA Forward New England and look forward to continuing our work together to advance immigrant justice and build political power for immigrant and refugee communities across Massachusetts."
 
-For media inquiries please contact Ellen Fleming at efleming@melwoodglobal.com
+For media inquiries please contact Ellen Fleming at [efleming@melwoodglobal.com](mailto:efleming@melwoodglobal.com)
