@@ -3,9 +3,11 @@ title: About Us
 description: Learn about MIRA Forward New England and our mission
 permalink: /about/
 ---
-## MIRA Forward announces first round of endorsements – 2026 midterm election 
+## MIRA Forward announces candidate endorsements – 2026 midterm election
 
-[Endorsements here](https://miraforward.netlify.app/2026-midterm-endorsements-first-round/)
+[First round of endorsements here](https://miraforward.netlify.app/2026-midterm-endorsements-first-round/)
+
+[Second round of endorsements here](https://miraforward.org/2026-midterm-endorsements-second-round/)
 
 ## About MIRA Forward New England
 
