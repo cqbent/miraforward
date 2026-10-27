@@ -14,6 +14,10 @@ showTitle: true
 
 [MIRA Forward announces first round of endorsements – 2026 midterm election ](https://miraforward.netlify.app/2026-midterm-endorsements-first-round/)
 
+MIRA Forward announces second round of endoresements - 2026 midterm election
+
+
+
 ## Vision
 
 **A nation where immigrants and refugees thrive and lead.**
