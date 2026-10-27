@@ -17,11 +17,10 @@ October 27, 2026
 
 The Massachusetts Immigrant and Refugee Advocacy (MIRA) Coalition launched MIRA Forward New England, a nonprofit political advocacy organization designed to recruit, support and elect leaders who will further immigrant and refugee support at a time when they are under direct threat around the globe, in March 2026.
 
-MIRA Forward New England is proud to issue their first round of endorsements for the 2026 Midterm Elections. 
+MIRA Forward New England is proud to issue their second round of endorsements for the 2026 Midterm Elections. 
 
 “At a time when Donald Trump is tearing families apart and our immigrant neighbors are under attack, MIRA has been there every step of the way - standing up for our communities, defending their rights, and fighting for their dignity,” said **Senator Ed Markey**. “I am incredibly proud to have the endorsement of MIRA Forward New England. We have stood shoulder to shoulder in the fight for immigrant justice, and I will continue fighting alongside them to ensure that every family in Massachusetts can live with dignity, safety, and opportunity.”
 
 "Immigrants are essential to our communities, economy, and country. But with Trump and ICE terrorizing our neighbors, separating families, and traumatizing children, we need partners from the government to the community level who will stand in the gap and defend the dignity and humanity of our immigrant neighbors," said **Congresswoman Ayanna Pressley**. "I'm so proud to earn the endorsement of MIRA Forward New England and look forward to continuing our work together to advance immigrant justice and build political power for immigrant and refugee communities across Massachusetts."
-
 
 For media inquiries please contact Ellen Fleming at efleming@melwoodglobal.com
