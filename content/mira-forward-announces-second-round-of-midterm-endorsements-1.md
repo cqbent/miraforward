@@ -17,7 +17,7 @@ October 28, 2026
 
 The Massachusetts Immigrant and Refugee Advocacy (MIRA) Coalition launched MIRA Forward New England, a nonprofit political advocacy organization designed to recruit, support and elect leaders who will further immigrant and refugee support at a time when they are under direct threat around the globe, in March 2026.
 
-MIRA Forward New England is proud to issue their first round of endorsements for the 2026 Midterm Elections. 
+MIRA Forward New England is proud to issue their third round of endorsements for the 2026 Midterm Elections. 
 
 “I am incredibly honored to have the endorsement of MIRA Forward New England which reflects my commitment to standing up for the rights of immigrant families and refugee communities in Massachusetts,” said **Senate President Karen Spilka (D-Ashland)**. “This session, we took nation-leading legislative action to protect our immigrant neighbors from ICE and the Trump Administration's inhumane and destructive policies. I remain steadfast in my commitment to protecting the rights of our immigrant neighbors and ensuring that Massachusetts is a welcoming place for everyone."
 
