@@ -16,6 +16,10 @@ showTitle: true
 
 [MIRA Forward announces second round of endoresements - 2026 midterm election](https://miraforward.org/2026-midterm-endorsements-second-round/)
 
+[MIRA Forward announces third round of endorsements - 2026 midterm election](https://miraforward.org/2026-midterm-endorsements-third-round/)
+
+
+
 ## Vision
 
 **A nation where immigrants and refugees thrive and lead.**
