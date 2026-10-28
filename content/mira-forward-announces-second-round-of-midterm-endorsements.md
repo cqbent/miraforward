@@ -9,7 +9,7 @@ For Immediate Release
 
 October 27, 2026
 
-**MIRA Forward New England Endorses Senator Ed Markey and Congresswoman Ayanna Pressley** 
+## **MIRA Forward New England Endorses Senator Ed Markey and Congresswoman Ayanna Pressley** 
 
 **BOSTON, MA –**  Today, MIRA Forward New England announces its endorsement for United States Senator Ed Markey and United States Congresswoman Ayanna Pressley. 
 
